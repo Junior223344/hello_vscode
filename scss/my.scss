@@ -5,11 +5,10 @@ h1 {
     color: green;
 }
 
-body {
-    font-style: 20px;
-
-    div {
-        font-size: 12px;
-    }
-
+.block {
+    height: 200px;
+    width: 300px;
+    background-color: #000;
+}
+.block_item {
 }
